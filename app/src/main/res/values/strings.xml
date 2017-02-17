@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Heart Rate Tracker</string>
+    <string name="pulse_text">Pulse: </string>
+</resources>
